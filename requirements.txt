@@ -1,0 +1,17 @@
+numpy
+pandas
+Flask
+scikit-learn
+https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+requests
+Pillow
+gunicorn == 20.0.4
+
+# How to run project
+# 1]cd app
+# 2]cd env/scripts
+# 3].\activate.ps1
+# 4]cd..(2 times till we reach app folder
+# 5]in app type python .\app.py
+# Run
